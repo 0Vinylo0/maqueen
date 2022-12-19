@@ -2,8 +2,8 @@
 
 - Como montar un maqueen y como quedo el mio
 
-![montaje](https://www.youtube.com/watch?v=_sAHwsOEKsg)
+-[montaje](https://www.youtube.com/watch?v=_sAHwsOEKsg)
 
 y aqui el mio 
 
-![image text]()
+![image text](montado_maqueen.jpeg)
