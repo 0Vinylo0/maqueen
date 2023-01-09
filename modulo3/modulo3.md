@@ -4,6 +4,8 @@
 
 - En esta actividad vemos como programar movimiento mediante variables
 
+![image text](modulo3_variables.png)
+
 
 ## Actividad 2
 
