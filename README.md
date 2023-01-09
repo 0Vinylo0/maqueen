@@ -6,13 +6,15 @@
 
 ## Modulo 1
 
-- [Programacion basica](modulo1/modulo1.md)
+- [Montaje del robot](modulo1/modulo1.md)
 
 ## Modulo 2
 
-- [Programacion basica 2](modulo2/modulo2.md)
+- [Programacion basica ](modulo2/modulo2.md)
 
 ## Modulo 3
+
+- [Programacion basica 2](modulo3/modulo3.md)
 
 ## Modulo 4
 
