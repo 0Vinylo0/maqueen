@@ -6,6 +6,8 @@
 
 ## Modulo 1
 
+- [Programacion basica](modulo1/modulo1.md)
+
 ## Modulo 2
 
 ## Modulo 3
