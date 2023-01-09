@@ -10,6 +10,8 @@
 
 ## Modulo 2
 
+- [Programacion basica 2](modulo2/modulo2.md)
+
 ## Modulo 3
 
 ## Modulo 4
