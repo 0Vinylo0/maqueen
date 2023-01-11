@@ -8,4 +8,4 @@
 - Maqueen
 ![image text](coche_inflarojos.png)
 
-- Y bueno aquie el [video del maqueen](https://youtube.com/shorts/_z-TzqNinq4)
+- Y bueno aquie el [video del maqueen]()
